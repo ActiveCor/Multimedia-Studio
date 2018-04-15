@@ -1,0 +1,10 @@
+<Software>
+    <CurrentVersion>
+	    <Release Version="2017.5">
+		    <Download Name="ExtraPaint" Extension="exe" Path="https://github.com/ActiveCor/Multimedia-Studio/raw/master/2017.5R/ex.setup.exe.deploy"
+		</Release>
+		<Build Version="2018.3" InnerVersion="13.7.289">
+		    
+		</Build>
+	</CurrentVersion>
+</Software>
